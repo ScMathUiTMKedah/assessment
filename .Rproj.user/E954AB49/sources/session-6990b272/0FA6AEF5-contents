@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  title: "Assessment Webpage"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Session"
+        menu: 
+          - text: "20234"
+            href: sesi_20234.qmd
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+
+
+
