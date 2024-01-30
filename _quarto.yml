@@ -11,6 +11,10 @@ website:
         menu: 
           - text: "20234"
             href: sesi_20234.qmd
+      - text: "Q & A"
+        menu: 
+          - text: "Sample Feb 2024"
+            href: sample_exam_mat112.qmd
 
 format:
   html:

@@ -1,0 +1,241 @@
+---
+title: "Sample Final Examination Feb 2024"
+---
+
+# Part B
+
+## Question 1 (Chapter 2: Promissory Note & Bank Discount)
+
+r = 10%\
+d = 9%\
+Proceed, P = RM14,358.17\
+Date of the note = 11 January 2022\
+discount term = 30 days\
+
+a)\
+
+$$
+\begin{align}
+Proceed &= S(1 - dt) \\
+14,358.17 &= S(1 - 0.09(\frac{30}{360})) \\
+S &= RM14,466.67
+\end{align}
+$$
+
+::: {.callout-note}
+We use proceeds formula to determine the value pf S (maturity value) since the proceed value was given. In addition, the discount term is 30 days since it is stated that the note was discounted 30 days before the maturity date.
+:::
+
+b)\
+
+$$
+\begin{align}
+D &= S - Proceeds \\
+&= 14,466.67 - 14,358.17 \\
+&= RM108.50
+\end{align}
+$$
+
+## Question 2 (Chapter 3: Compound Interest)\
+
+P = RM4,000\
+k = 6%\
+m = 2 (compounded semi-annually)\
+t = 3 years\
+
+Add a a saving of RM5,000 after two years from the initial deposit\
+
+**Solution 1**\
+$$
+\begin{align}
+S_1 &= P(1 + i)^n \\
+&= 4,000\bigg(1 + \frac{0.06}{2}\bigg)^4 \\
+&= RM4,502.04 \\
+\\
+Add\ another\ RM5,000 \\
+New\ P &= 4,502.04 + 5,000 \\
+&= RM9,502.04 \\
+\\
+S &= New\ P(1 + i)^n \\
+&= 9,502.04\bigg(1 + \frac{0.06}{2}\bigg)^2 \\
+&= RM10,080.71
+\end{align}
+$$
+**Solution 2**\
+$$
+\begin{align}
+S &= (P(1 + i)^{n_1} + 5,000)(1 + i)^{n_2}\\
+&= \bigg(4,000\bigg(1 + \frac{0.06}{2}\bigg)^4 + 5,000\bigg)\bigg(1 + \frac{0.06}{2}\bigg)^2 \\
+&= RM10,080.71
+\end{align}
+$$
+
+## Question 3 (Chapter 4: Annuity)\
+
+DP = RM35,000\
+t = 25 years\
+m = 12 (monthly)\
+R = RM1,580\
+k = 4.9%\
+n = 12(25) = 300\
+
+a)\
+$$
+\begin{align}
+A &= R\bigg[\frac{1 - (1 + i)^{-n}}{i}\bigg]\\
+&= 1,580\bigg[\frac{1 - \bigg(1 + \bigg(\frac{0.049}{12}\bigg)\bigg)^{-300}}{\bigg(\frac{0.049}{12}\bigg)}\bigg]\\
+&= RM272,988.66\\
+\\
+CP &= A + DP\\
+&= 272,988.66 + 35,000\\
+&= RM307,988.66
+\end{align}
+$$
+b)\
+$$
+\begin{align}
+n = 6 \\
+S &= R\bigg[\frac{(1 + i)^{n}-1}{i}\bigg]\\
+&= 1,580\bigg[\frac{\bigg(1 + \bigg(\frac{0.049}{12}\bigg)\bigg)^{6}-1}{\bigg(\frac{0.049}{12}\bigg)}\bigg]\\
+&= RM9,577.30
+\end{align}
+$$
+
+## Question 4 (Chapter 5: Trade and Cash Discount)\
+
+n = 15 units\
+Invoice date = 11 Nov. 2020\
+Invoice = RM52,800 (Include Transportation = RM300)\
+LP = 52,800 - 300 = RM52,500\
+r_1 = 12%\
+r_2 = 10%\
+cash term = 9/10, 7/20, n/30\
+
+a)\
+$$
+\begin{align}
+SDER &= 1 - (1-r_1)(1-r_2)\\
+&= 1 - (1-0.12)(1-0.1)\\
+&= 1 - (0.88)(0.9)\\
+&= 0.208\ @\ 20.8\%
+\end{align}
+$$
+b)\
+7/20 - 20 days after the invoice date 11 November 2020\
+
+11 Nov - 30 Nov = 19 days\
+Hence, last date to received 7% cash discount is on **1 December 2020**\
+
+c)\
+Payment on 21 November 2020 (10 days from date of invoice)\
+Received 9% cash discount\
+
+$$
+\begin{align}
+Total\ Payment\ &= L(1-SDER)(1-cd)\ + Transport\\
+&= 52,500(1-0.208)(1-0.09) + 300\\
+&= RM38,137.80
+\end{align}
+$$
+
+## Question 5 (Chapter 6: Markup & Markdown)\
+
+n = 200\
+TC = RM1,600 --> C = $\frac{TC}{n} = RM8$\
+NP = 30% on Selling Price --> NP = 0.3R\
+OE = 12% on Cost --> OE = 0.12C\
+
+a)
+$$
+\begin{align}
+R &= C + OE + NP\\
+R &= C + 0.12C + 0.3R\\
+R - 0.3R &= 1.12C\\
+R &= \frac{1.12C}{0.7}\\
+&= \frac{1.12(8)}{0.7}\\
+&= RM12.80
+\end{align}
+$$
+b)\
+
+$$
+\begin{align}
+BEP &= C + OE\\
+&= 1.2(8)\\
+&= RM8.96\\
+\\
+Max\ MD\% &= \frac{R-BEP}{R}\times100\%\\
+&= \frac{12.80 - 8.96}{12.8}\times100\%\\
+&= 30\%\\
+\\
+or,\ Max\ MD\% &= \frac{NP}{R}\times100\%\\
+\end{align}
+$$
+
+::: {.callout-note}
+The maximum percentage of markdown is equivalent to the NP% if the net profit is base on the selling price.
+:::
+
+## Question 6 (Chapter 7: Installment Purchase)\
+
+CP = RM3,000\
+DP = 0\
+n = 40 (weekly)\
+m = 52\
+r = 13% (original balance)\
+
+a)\
+$$
+\begin{align}
+I &= Brt\\
+&= 3,000\ \times\ 0.13\ \times\ \frac{40}{52}\\
+&= RM300
+\end{align}
+$$
+b)\
+$$
+\begin{align}
+R &= \frac{B+I}{n}\\
+&= \frac{3,000 + 300}{40}\\
+&= RM82.50
+\end{align}
+$$
+c)\
+$$
+\begin{align}
+N &= 40-30 = 10\\
+n &= 40\\
+\\
+Outstanding\ Balance\ ,\ B &= RN-I\bigg[\frac{N(N+1)}{n(n+1)}\bigg]\\
+&= 3,000(10)-300\bigg[\frac{10(10+1)}{40(40+1)}\bigg]\\
+&= RM804.88
+\end{align}
+$$
+
+## Question 7 (Chapter 8: Depreciation)\
+
+C = RM12,500\
+n = 8 years\
+S = RM4,700\
+method = declining balance
+
+$$
+\begin{align}
+r &= 1 - \sqrt[n]\frac{S}{C}\\
+&= 1 - \sqrt[8]\frac{4,700}{12,500}\\
+&= 0.1151\ @\ 11.51\%\\
+\\
+BV_4 &= C(1-r)^4\\
+&= 12,500(1 - 0.1151)^4\\
+&= RM7,664.85
+\end{align}
+$$
+
+
+
+
+
+
+
+
+

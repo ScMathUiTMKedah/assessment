@@ -33,5 +33,61 @@
     "title": "Welcome to My Course Assessment Portal",
     "section": "",
     "text": "Welcome to the Universiti Teknologi MARA (UiTM) Kedah Branch Campus Continuous Assessment Portal! As an esteemed educator at UiTM Kedah, I am dedicated to providing the utmost support and transparency in the academic journey of our students.\n\nAt UiTM Kedah, we pride ourselves on fostering an environment of excellence, innovation, and inclusivity. With a rich history of academic prowess and a commitment to holistic education, our campus stands as a beacon of knowledge and opportunity in the region.\n\nThis webpage serves as a central hub for accessing continuous assessment marks for all courses taught at UiTM Kedah. As an integral part of our commitment to academic integrity and student success, we believe in providing timely and accessible feedback to our students. Through this portal, students can track their progress, identify areas for improvement, and engage actively in their learning journey.\n\nAs an educator, I am passionate about empowering my students to reach their full potential. With a focus on fostering critical thinking, creativity, and lifelong learning skills, my goal is to cultivate a supportive learning environment where every student can thrive.\n\nI invite you to explore this portal, engage with your continuous assessment marks, and utilize the resources available to support your academic growth. Together, let us embark on a journey of discovery, learning, and achievement at Universiti Teknologi MARA Kedah Branch Campus.\n\nThank you for choosing UiTM Kedah, where excellence is not just a goal but a way of life.\n\nSincerely,\nKamarul Ariffin\nSenior Lecturer,\nUniversiti Teknologi MARA Kedah Branch Campus"
+  },
+  {
+    "objectID": "sample_exam_mat112.html",
+    "href": "sample_exam_mat112.html",
+    "title": "Sample Final Examination Feb 2024",
+    "section": "",
+    "text": "r = 10%\nd = 9%\nProceed, P = RM14,358.17\nDate of the note = 11 January 2022\ndiscount term = 30 days\n\na)\n\n\\[\n\\begin{align}\nProceed &= S(1 - dt) \\\\\n14,358.17 &= S(1 - 0.09(\\frac{30}{360})) \\\\\nS &= RM14,466.67\n\\end{align}\n\\]\n\n\n\n\n\n\nNote\n\n\n\nWe use proceeds formula to determine the value pf S (maturity value) since the proceed value was given. In addition, the discount term is 30 days since it is stated that the note was discounted 30 days before the maturity date.\n\n\nb)\n\n\\[\n\\begin{align}\nD &= S - Proceeds \\\\\n&= 14,466.67 - 14,358.17 \\\\\n&= RM108.50\n\\end{align}\n\\]\n\n\n\nP = RM4,000\nk = 6%\nm = 2 (compounded semi-annually)\nt = 3 years\n\nAdd a a saving of RM5,000 after two years from the initial deposit\n\nSolution 1\n\\[\n\\begin{align}\nS_1 &= P(1 + i)^n \\\\\n&= 4,000\\bigg(1 + \\frac{0.06}{2}\\bigg)^4 \\\\\n&= RM4,502.04 \\\\\n\\\\\nAdd\\ another\\ RM5,000 \\\\\nNew\\ P &= 4,502.04 + 5,000 \\\\\n&= RM9,502.04 \\\\\n\\\\\nS &= New\\ P(1 + i)^n \\\\\n&= 9,502.04\\bigg(1 + \\frac{0.06}{2}\\bigg)^2 \\\\\n&= RM10,080.71\n\\end{align}\n\\] Solution 2\n\\[\n\\begin{align}\nS &= (P(1 + i)^{n_1} + 5,000)(1 + i)^{n_2}\\\\\n&= \\bigg(4,000\\bigg(1 + \\frac{0.06}{2}\\bigg)^4 + 5,000\\bigg)\\bigg(1 + \\frac{0.06}{2}\\bigg)^2 \\\\\n&= RM10,080.71\n\\end{align}\n\\]\n\n\n\nDP = RM35,000\nt = 25 years\nm = 12 (monthly)\nR = RM1,580\nk = 4.9%\nn = 12(25) = 300\n\na)\n\\[\n\\begin{align}\nA &= R\\bigg[\\frac{1 - (1 + i)^{-n}}{i}\\bigg]\\\\\n&= 1,580\\bigg[\\frac{1 - \\bigg(1 + \\bigg(\\frac{0.049}{12}\\bigg)\\bigg)^{-300}}{\\bigg(\\frac{0.049}{12}\\bigg)}\\bigg]\\\\\n&= RM272,988.66\\\\\n\\\\\nCP &= A + DP\\\\\n&= 272,988.66 + 35,000\\\\\n&= RM307,988.66\n\\end{align}\n\\] b)\n\\[\n\\begin{align}\nn = 6 \\\\\nS &= R\\bigg[\\frac{(1 + i)^{n}-1}{i}\\bigg]\\\\\n&= 1,580\\bigg[\\frac{\\bigg(1 + \\bigg(\\frac{0.049}{12}\\bigg)\\bigg)^{6}-1}{\\bigg(\\frac{0.049}{12}\\bigg)}\\bigg]\\\\\n&= RM9,577.30\n\\end{align}\n\\]\n\n\n\nn = 15 units\nInvoice date = 11 Nov. 2020\nInvoice = RM52,800 (Include Transportation = RM300)\nLP = 52,800 - 300 = RM52,500\nr_1 = 12%\nr_2 = 10%\ncash term = 9/10, 7/20, n/30\n\na)\n\\[\n\\begin{align}\nSDER &= 1 - (1-r_1)(1-r_2)\\\\\n&= 1 - (1-0.12)(1-0.1)\\\\\n&= 1 - (0.88)(0.9)\\\\\n&= 0.208\\ @\\ 20.8\\%\n\\end{align}\n\\] b)\n7/20 - 20 days after the invoice date 11 November 2020\n\n11 Nov - 30 Nov = 19 days\nHence, last date to received 7% cash discount is on 1 December 2020\n\nc)\nPayment on 21 November 2020 (10 days from date of invoice)\nReceived 9% cash discount\n\n\\[\n\\begin{align}\nTotal\\ Payment\\ &= L(1-SDER)(1-cd)\\ + Transport\\\\\n&= 52,500(1-0.208)(1-0.09) + 300\\\\\n&= RM38,137.80\n\\end{align}\n\\]\n\n\n\nn = 200\nTC = RM1,600 –&gt; C = \\(\\frac{TC}{n} = RM8\\)\nNP = 30% on Selling Price –&gt; NP = 0.3R\nOE = 12% on Cost –&gt; OE = 0.12C\n\n\n\\[\n\\begin{align}\nR &= C + OE + NP\\\\\nR &= C + 0.12C + 0.3R\\\\\nR - 0.3R &= 1.12C\\\\\nR &= \\frac{1.12C}{0.7}\\\\\n&= \\frac{1.12(8)}{0.7}\\\\\n&= RM12.80\n\\end{align}\n\\] b)\n\n\n\\[\n\\begin{align}\nBEP &= C + OE\\\\\n&= 1.2(8)\\\\\n&= RM8.96\\\\\n\\\\\nMax\\ MD\\% &= \\frac{R-BEP}{R}\\times100\\%\\\\\n&= \\frac{12.80 - 8.96}{12.8}\\times100\\%\\\\\n&= 30\\%\\\\\n\\\\\nor,\\ Max\\ MD\\% &= \\frac{NP}{R}\\times100\\%\\\\\n\\end{align}\n\\]\n\n\n\n\n\n\nNote\n\n\n\nThe maximum percentage of markdown is equivalent to the NP% if the net profit is base on the selling price.\n\n\n\n\n\nCP = RM3,000\nDP = 0\nn = 40 (weekly)\nm = 52\nr = 13% (original balance)\n\na)\n\\[\n\\begin{align}\nI &= Brt\\\\\n&= 3,000\\ \\times\\ 0.13\\ \\times\\ \\frac{40}{52}\\\\\n&= RM300\n\\end{align}\n\\] b)\n\\[\n\\begin{align}\nR &= \\frac{B+I}{n}\\\\\n&= \\frac{3,000 + 300}{40}\\\\\n&= RM82.50\n\\end{align}\n\\] c)\n\\[\n\\begin{align}\nN &= 40-30 = 10\\\\\nn &= 40\\\\\n\\\\\nOutstanding\\ Balance\\ ,\\ B &= RN-I\\bigg[\\frac{N(N+1)}{n(n+1)}\\bigg]\\\\\n&= 3,000(10)-300\\bigg[\\frac{10(10+1)}{40(40+1)}\\bigg]\\\\\n&= RM804.88\n\\end{align}\n\\]\n\n\n\nC = RM12,500\nn = 8 years\nS = RM4,700\nmethod = declining balance\n\\[\n\\begin{align}\nr &= 1 - \\sqrt[n]\\frac{S}{C}\\\\\n&= 1 - \\sqrt[8]\\frac{4,700}{12,500}\\\\\n&= 0.1151\\ @\\ 11.51\\%\\\\\n\\\\\nBV_4 &= C(1-r)^4\\\\\n&= 12,500(1 - 0.1151)^4\\\\\n&= RM7,664.85\n\\end{align}\n\\]"
+  },
+  {
+    "objectID": "sample_exam_mat112.html#question-1-chapter-2-promissory-note-bank-discount",
+    "href": "sample_exam_mat112.html#question-1-chapter-2-promissory-note-bank-discount",
+    "title": "Sample Final Examination Feb 2024",
+    "section": "",
+    "text": "r = 10%\nd = 9%\nProceed, P = RM14,358.17\nDate of the note = 11 January 2022\ndiscount term = 30 days\n\na)\n\n\\[\n\\begin{align}\nProceed &= S(1 - dt) \\\\\n14,358.17 &= S(1 - 0.09(\\frac{30}{360})) \\\\\nS &= RM14,466.67\n\\end{align}\n\\]\n\n\n\n\n\n\nNote\n\n\n\nWe use proceeds formula to determine the value pf S (maturity value) since the proceed value was given. In addition, the discount term is 30 days since it is stated that the note was discounted 30 days before the maturity date.\n\n\nb)\n\n\\[\n\\begin{align}\nD &= S - Proceeds \\\\\n&= 14,466.67 - 14,358.17 \\\\\n&= RM108.50\n\\end{align}\n\\]"
+  },
+  {
+    "objectID": "sample_exam_mat112.html#question-2-chapter-3-compound-interest",
+    "href": "sample_exam_mat112.html#question-2-chapter-3-compound-interest",
+    "title": "Sample Final Examination Feb 2024",
+    "section": "",
+    "text": "P = RM4,000\nk = 6%\nm = 2 (compounded semi-annually)\nt = 3 years\n\nAdd a a saving of RM5,000 after two years from the initial deposit\n\nSolution 1\n\\[\n\\begin{align}\nS_1 &= P(1 + i)^n \\\\\n&= 4,000\\bigg(1 + \\frac{0.06}{2}\\bigg)^4 \\\\\n&= RM4,502.04 \\\\\n\\\\\nAdd\\ another\\ RM5,000 \\\\\nNew\\ P &= 4,502.04 + 5,000 \\\\\n&= RM9,502.04 \\\\\n\\\\\nS &= New\\ P(1 + i)^n \\\\\n&= 9,502.04\\bigg(1 + \\frac{0.06}{2}\\bigg)^2 \\\\\n&= RM10,080.71\n\\end{align}\n\\] Solution 2\n\\[\n\\begin{align}\nS &= (P(1 + i)^{n_1} + 5,000)(1 + i)^{n_2}\\\\\n&= \\bigg(4,000\\bigg(1 + \\frac{0.06}{2}\\bigg)^4 + 5,000\\bigg)\\bigg(1 + \\frac{0.06}{2}\\bigg)^2 \\\\\n&= RM10,080.71\n\\end{align}\n\\]"
+  },
+  {
+    "objectID": "sample_exam_mat112.html#question-3-chapter-4-annuity",
+    "href": "sample_exam_mat112.html#question-3-chapter-4-annuity",
+    "title": "Sample Final Examination Feb 2024",
+    "section": "",
+    "text": "DP = RM35,000\nt = 25 years\nm = 12 (monthly)\nR = RM1,580\nk = 4.9%\nn = 12(25) = 300\n\na)\n\\[\n\\begin{align}\nA &= R\\bigg[\\frac{1 - (1 + i)^{-n}}{i}\\bigg]\\\\\n&= 1,580\\bigg[\\frac{1 - \\bigg(1 + \\bigg(\\frac{0.049}{12}\\bigg)\\bigg)^{-300}}{\\bigg(\\frac{0.049}{12}\\bigg)}\\bigg]\\\\\n&= RM272,988.66\\\\\n\\\\\nCP &= A + DP\\\\\n&= 272,988.66 + 35,000\\\\\n&= RM307,988.66\n\\end{align}\n\\] b)\n\\[\n\\begin{align}\nn = 6 \\\\\nS &= R\\bigg[\\frac{(1 + i)^{n}-1}{i}\\bigg]\\\\\n&= 1,580\\bigg[\\frac{\\bigg(1 + \\bigg(\\frac{0.049}{12}\\bigg)\\bigg)^{6}-1}{\\bigg(\\frac{0.049}{12}\\bigg)}\\bigg]\\\\\n&= RM9,577.30\n\\end{align}\n\\]"
+  },
+  {
+    "objectID": "sample_exam_mat112.html#question-4-chapter-5-trade-and-cash-discount",
+    "href": "sample_exam_mat112.html#question-4-chapter-5-trade-and-cash-discount",
+    "title": "Sample Final Examination Feb 2024",
+    "section": "",
+    "text": "n = 15 units\nInvoice date = 11 Nov. 2020\nInvoice = RM52,800 (Include Transportation = RM300)\nLP = 52,800 - 300 = RM52,500\nr_1 = 12%\nr_2 = 10%\ncash term = 9/10, 7/20, n/30\n\na)\n\\[\n\\begin{align}\nSDER &= 1 - (1-r_1)(1-r_2)\\\\\n&= 1 - (1-0.12)(1-0.1)\\\\\n&= 1 - (0.88)(0.9)\\\\\n&= 0.208\\ @\\ 20.8\\%\n\\end{align}\n\\] b)\n7/20 - 20 days after the invoice date 11 November 2020\n\n11 Nov - 30 Nov = 19 days\nHence, last date to received 7% cash discount is on 1 December 2020\n\nc)\nPayment on 21 November 2020 (10 days from date of invoice)\nReceived 9% cash discount\n\n\\[\n\\begin{align}\nTotal\\ Payment\\ &= L(1-SDER)(1-cd)\\ + Transport\\\\\n&= 52,500(1-0.208)(1-0.09) + 300\\\\\n&= RM38,137.80\n\\end{align}\n\\]"
+  },
+  {
+    "objectID": "sample_exam_mat112.html#question-5-chapter-6-markup-markdown",
+    "href": "sample_exam_mat112.html#question-5-chapter-6-markup-markdown",
+    "title": "Sample Final Examination Feb 2024",
+    "section": "",
+    "text": "n = 200\nTC = RM1,600 –&gt; C = \\(\\frac{TC}{n} = RM8\\)\nNP = 30% on Selling Price –&gt; NP = 0.3R\nOE = 12% on Cost –&gt; OE = 0.12C\n\n\n\\[\n\\begin{align}\nR &= C + OE + NP\\\\\nR &= C + 0.12C + 0.3R\\\\\nR - 0.3R &= 1.12C\\\\\nR &= \\frac{1.12C}{0.7}\\\\\n&= \\frac{1.12(8)}{0.7}\\\\\n&= RM12.80\n\\end{align}\n\\] b)\n\n\n\\[\n\\begin{align}\nBEP &= C + OE\\\\\n&= 1.2(8)\\\\\n&= RM8.96\\\\\n\\\\\nMax\\ MD\\% &= \\frac{R-BEP}{R}\\times100\\%\\\\\n&= \\frac{12.80 - 8.96}{12.8}\\times100\\%\\\\\n&= 30\\%\\\\\n\\\\\nor,\\ Max\\ MD\\% &= \\frac{NP}{R}\\times100\\%\\\\\n\\end{align}\n\\]\n\n\n\n\n\n\nNote\n\n\n\nThe maximum percentage of markdown is equivalent to the NP% if the net profit is base on the selling price."
+  },
+  {
+    "objectID": "sample_exam_mat112.html#question-6-chapter-7-installment-purchase",
+    "href": "sample_exam_mat112.html#question-6-chapter-7-installment-purchase",
+    "title": "Sample Final Examination Feb 2024",
+    "section": "",
+    "text": "CP = RM3,000\nDP = 0\nn = 40 (weekly)\nm = 52\nr = 13% (original balance)\n\na)\n\\[\n\\begin{align}\nI &= Brt\\\\\n&= 3,000\\ \\times\\ 0.13\\ \\times\\ \\frac{40}{52}\\\\\n&= RM300\n\\end{align}\n\\] b)\n\\[\n\\begin{align}\nR &= \\frac{B+I}{n}\\\\\n&= \\frac{3,000 + 300}{40}\\\\\n&= RM82.50\n\\end{align}\n\\] c)\n\\[\n\\begin{align}\nN &= 40-30 = 10\\\\\nn &= 40\\\\\n\\\\\nOutstanding\\ Balance\\ ,\\ B &= RN-I\\bigg[\\frac{N(N+1)}{n(n+1)}\\bigg]\\\\\n&= 3,000(10)-300\\bigg[\\frac{10(10+1)}{40(40+1)}\\bigg]\\\\\n&= RM804.88\n\\end{align}\n\\]"
+  },
+  {
+    "objectID": "sample_exam_mat112.html#question-7-chapter-8-depreciation",
+    "href": "sample_exam_mat112.html#question-7-chapter-8-depreciation",
+    "title": "Sample Final Examination Feb 2024",
+    "section": "",
+    "text": "C = RM12,500\nn = 8 years\nS = RM4,700\nmethod = declining balance\n\\[\n\\begin{align}\nr &= 1 - \\sqrt[n]\\frac{S}{C}\\\\\n&= 1 - \\sqrt[8]\\frac{4,700}{12,500}\\\\\n&= 0.1151\\ @\\ 11.51\\%\\\\\n\\\\\nBV_4 &= C(1-r)^4\\\\\n&= 12,500(1 - 0.1151)^4\\\\\n&= RM7,664.85\n\\end{align}\n\\]"
   }
 ]

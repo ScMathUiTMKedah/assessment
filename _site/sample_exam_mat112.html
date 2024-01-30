@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Assessment Webpage - Welcome to My Course Assessment Portal</title>
+<title>Assessment Webpage - Sample Final Examination Feb 2024</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -67,6 +67,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -89,7 +118,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -126,14 +155,35 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#part-b" id="toc-part-b" class="nav-link active" data-scroll-target="#part-b">Part B</a>
+  <ul class="collapse">
+  <li><a href="#question-1-chapter-2-promissory-note-bank-discount" id="toc-question-1-chapter-2-promissory-note-bank-discount" class="nav-link" data-scroll-target="#question-1-chapter-2-promissory-note-bank-discount">Question 1 (Chapter 2: Promissory Note &amp; Bank Discount)</a></li>
+  <li><a href="#question-2-chapter-3-compound-interest" id="toc-question-2-chapter-3-compound-interest" class="nav-link" data-scroll-target="#question-2-chapter-3-compound-interest">Question 2 (Chapter 3: Compound Interest)<br>
+  </a></li>
+  <li><a href="#question-3-chapter-4-annuity" id="toc-question-3-chapter-4-annuity" class="nav-link" data-scroll-target="#question-3-chapter-4-annuity">Question 3 (Chapter 4: Annuity)<br>
+  </a></li>
+  <li><a href="#question-4-chapter-5-trade-and-cash-discount" id="toc-question-4-chapter-5-trade-and-cash-discount" class="nav-link" data-scroll-target="#question-4-chapter-5-trade-and-cash-discount">Question 4 (Chapter 5: Trade and Cash Discount)<br>
+  </a></li>
+  <li><a href="#question-5-chapter-6-markup-markdown" id="toc-question-5-chapter-6-markup-markdown" class="nav-link" data-scroll-target="#question-5-chapter-6-markup-markdown">Question 5 (Chapter 6: Markup &amp; Markdown)<br>
+  </a></li>
+  <li><a href="#question-6-chapter-7-installment-purchase" id="toc-question-6-chapter-7-installment-purchase" class="nav-link" data-scroll-target="#question-6-chapter-7-installment-purchase">Question 6 (Chapter 7: Installment Purchase)<br>
+  </a></li>
+  <li><a href="#question-7-chapter-8-depreciation" id="toc-question-7-chapter-8-depreciation" class="nav-link" data-scroll-target="#question-7-chapter-8-depreciation">Question 7 (Chapter 8: Depreciation)<br>
+  </a></li>
+  </ul></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Welcome to My Course Assessment Portal</h1>
+<h1 class="title">Sample Final Examination Feb 2024</h1>
 </div>
 
 
@@ -150,24 +200,255 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Welcome to the Universiti Teknologi MARA (UiTM) Kedah Branch Campus Continuous Assessment Portal! As an esteemed educator at UiTM Kedah, I am dedicated to providing the utmost support and transparency in the academic journey of our students.<br>
+<section id="part-b" class="level1">
+<h1>Part B</h1>
+<section id="question-1-chapter-2-promissory-note-bank-discount" class="level2">
+<h2 class="anchored" data-anchor-id="question-1-chapter-2-promissory-note-bank-discount">Question 1 (Chapter 2: Promissory Note &amp; Bank Discount)</h2>
+<p>r = 10%<br>
+d = 9%<br>
+Proceed, P = RM14,358.17<br>
+Date of the note = 11 January 2022<br>
+discount term = 30 days<br>
 </p>
-<p>At UiTM Kedah, we pride ourselves on fostering an environment of excellence, innovation, and inclusivity. With a rich history of academic prowess and a commitment to holistic education, our campus stands as a beacon of knowledge and opportunity in the region.<br>
+<p>a)<br>
 </p>
-<p>This webpage serves as a central hub for accessing continuous assessment marks for all courses taught at UiTM Kedah. As an integral part of our commitment to academic integrity and student success, we believe in providing timely and accessible feedback to our students. Through this portal, students can track their progress, identify areas for improvement, and engage actively in their learning journey.<br>
+<p><span class="math display">\[
+\begin{align}
+Proceed &amp;= S(1 - dt) \\
+14,358.17 &amp;= S(1 - 0.09(\frac{30}{360})) \\
+S &amp;= RM14,466.67
+\end{align}
+\]</span></p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>We use proceeds formula to determine the value pf S (maturity value) since the proceed value was given. In addition, the discount term is 30 days since it is stated that the note was discounted 30 days before the maturity date.</p>
+</div>
+</div>
+<p>b)<br>
 </p>
-<p>As an educator, I am passionate about empowering my students to reach their full potential. With a focus on fostering critical thinking, creativity, and lifelong learning skills, my goal is to cultivate a supportive learning environment where every student can thrive.<br>
+<p><span class="math display">\[
+\begin{align}
+D &amp;= S - Proceeds \\
+&amp;= 14,466.67 - 14,358.17 \\
+&amp;= RM108.50
+\end{align}
+\]</span></p>
+</section>
+<section id="question-2-chapter-3-compound-interest" class="level2">
+<h2 class="anchored" data-anchor-id="question-2-chapter-3-compound-interest">Question 2 (Chapter 3: Compound Interest)<br>
+</h2>
+<p>P = RM4,000<br>
+k = 6%<br>
+m = 2 (compounded semi-annually)<br>
+t = 3 years<br>
 </p>
-<p>I invite you to explore this portal, engage with your continuous assessment marks, and utilize the resources available to support your academic growth. Together, let us embark on a journey of discovery, learning, and achievement at Universiti Teknologi MARA Kedah Branch Campus.<br>
+<p>Add a a saving of RM5,000 after two years from the initial deposit<br>
 </p>
-<p>Thank you for choosing UiTM Kedah, where excellence is not just a goal but a way of life.<br>
+<p><strong>Solution 1</strong><br>
+<span class="math display">\[
+\begin{align}
+S_1 &amp;= P(1 + i)^n \\
+&amp;= 4,000\bigg(1 + \frac{0.06}{2}\bigg)^4 \\
+&amp;= RM4,502.04 \\
+\\
+Add\ another\ RM5,000 \\
+New\ P &amp;= 4,502.04 + 5,000 \\
+&amp;= RM9,502.04 \\
+\\
+S &amp;= New\ P(1 + i)^n \\
+&amp;= 9,502.04\bigg(1 + \frac{0.06}{2}\bigg)^2 \\
+&amp;= RM10,080.71
+\end{align}
+\]</span> <strong>Solution 2</strong><br>
+<span class="math display">\[
+\begin{align}
+S &amp;= (P(1 + i)^{n_1} + 5,000)(1 + i)^{n_2}\\
+&amp;= \bigg(4,000\bigg(1 + \frac{0.06}{2}\bigg)^4 + 5,000\bigg)\bigg(1 + \frac{0.06}{2}\bigg)^2 \\
+&amp;= RM10,080.71
+\end{align}
+\]</span></p>
+</section>
+<section id="question-3-chapter-4-annuity" class="level2">
+<h2 class="anchored" data-anchor-id="question-3-chapter-4-annuity">Question 3 (Chapter 4: Annuity)<br>
+</h2>
+<p>DP = RM35,000<br>
+t = 25 years<br>
+m = 12 (monthly)<br>
+R = RM1,580<br>
+k = 4.9%<br>
+n = 12(25) = 300<br>
 </p>
-<p>Sincerely,<br>
-Kamarul Ariffin<br>
-Senior Lecturer,<br>
-Universiti Teknologi MARA Kedah Branch Campus</p>
+<p>a)<br>
+<span class="math display">\[
+\begin{align}
+A &amp;= R\bigg[\frac{1 - (1 + i)^{-n}}{i}\bigg]\\
+&amp;= 1,580\bigg[\frac{1 - \bigg(1 + \bigg(\frac{0.049}{12}\bigg)\bigg)^{-300}}{\bigg(\frac{0.049}{12}\bigg)}\bigg]\\
+&amp;= RM272,988.66\\
+\\
+CP &amp;= A + DP\\
+&amp;= 272,988.66 + 35,000\\
+&amp;= RM307,988.66
+\end{align}
+\]</span> b)<br>
+<span class="math display">\[
+\begin{align}
+n = 6 \\
+S &amp;= R\bigg[\frac{(1 + i)^{n}-1}{i}\bigg]\\
+&amp;= 1,580\bigg[\frac{\bigg(1 + \bigg(\frac{0.049}{12}\bigg)\bigg)^{6}-1}{\bigg(\frac{0.049}{12}\bigg)}\bigg]\\
+&amp;= RM9,577.30
+\end{align}
+\]</span></p>
+</section>
+<section id="question-4-chapter-5-trade-and-cash-discount" class="level2">
+<h2 class="anchored" data-anchor-id="question-4-chapter-5-trade-and-cash-discount">Question 4 (Chapter 5: Trade and Cash Discount)<br>
+</h2>
+<p>n = 15 units<br>
+Invoice date = 11 Nov.&nbsp;2020<br>
+Invoice = RM52,800 (Include Transportation = RM300)<br>
+LP = 52,800 - 300 = RM52,500<br>
+r_1 = 12%<br>
+r_2 = 10%<br>
+cash term = 9/10, 7/20, n/30<br>
+</p>
+<p>a)<br>
+<span class="math display">\[
+\begin{align}
+SDER &amp;= 1 - (1-r_1)(1-r_2)\\
+&amp;= 1 - (1-0.12)(1-0.1)\\
+&amp;= 1 - (0.88)(0.9)\\
+&amp;= 0.208\ @\ 20.8\%
+\end{align}
+\]</span> b)<br>
+7/20 - 20 days after the invoice date 11 November 2020<br>
+</p>
+<p>11 Nov - 30 Nov = 19 days<br>
+Hence, last date to received 7% cash discount is on <strong>1 December 2020</strong><br>
+</p>
+<p>c)<br>
+Payment on 21 November 2020 (10 days from date of invoice)<br>
+Received 9% cash discount<br>
+</p>
+<p><span class="math display">\[
+\begin{align}
+Total\ Payment\ &amp;= L(1-SDER)(1-cd)\ + Transport\\
+&amp;= 52,500(1-0.208)(1-0.09) + 300\\
+&amp;= RM38,137.80
+\end{align}
+\]</span></p>
+</section>
+<section id="question-5-chapter-6-markup-markdown" class="level2">
+<h2 class="anchored" data-anchor-id="question-5-chapter-6-markup-markdown">Question 5 (Chapter 6: Markup &amp; Markdown)<br>
+</h2>
+<p>n = 200<br>
+TC = RM1,600 –&gt; C = <span class="math inline">\(\frac{TC}{n} = RM8\)</span><br>
+NP = 30% on Selling Price –&gt; NP = 0.3R<br>
+OE = 12% on Cost –&gt; OE = 0.12C<br>
+</p>
+<ol type="a">
+<li><span class="math display">\[
+\begin{align}
+R &amp;= C + OE + NP\\
+R &amp;= C + 0.12C + 0.3R\\
+R - 0.3R &amp;= 1.12C\\
+R &amp;= \frac{1.12C}{0.7}\\
+&amp;= \frac{1.12(8)}{0.7}\\
+&amp;= RM12.80
+\end{align}
+\]</span> b)<br>
+</li>
+</ol>
+<p><span class="math display">\[
+\begin{align}
+BEP &amp;= C + OE\\
+&amp;= 1.2(8)\\
+&amp;= RM8.96\\
+\\
+Max\ MD\% &amp;= \frac{R-BEP}{R}\times100\%\\
+&amp;= \frac{12.80 - 8.96}{12.8}\times100\%\\
+&amp;= 30\%\\
+\\
+or,\ Max\ MD\% &amp;= \frac{NP}{R}\times100\%\\
+\end{align}
+\]</span></p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>The maximum percentage of markdown is equivalent to the NP% if the net profit is base on the selling price.</p>
+</div>
+</div>
+</section>
+<section id="question-6-chapter-7-installment-purchase" class="level2">
+<h2 class="anchored" data-anchor-id="question-6-chapter-7-installment-purchase">Question 6 (Chapter 7: Installment Purchase)<br>
+</h2>
+<p>CP = RM3,000<br>
+DP = 0<br>
+n = 40 (weekly)<br>
+m = 52<br>
+r = 13% (original balance)<br>
+</p>
+<p>a)<br>
+<span class="math display">\[
+\begin{align}
+I &amp;= Brt\\
+&amp;= 3,000\ \times\ 0.13\ \times\ \frac{40}{52}\\
+&amp;= RM300
+\end{align}
+\]</span> b)<br>
+<span class="math display">\[
+\begin{align}
+R &amp;= \frac{B+I}{n}\\
+&amp;= \frac{3,000 + 300}{40}\\
+&amp;= RM82.50
+\end{align}
+\]</span> c)<br>
+<span class="math display">\[
+\begin{align}
+N &amp;= 40-30 = 10\\
+n &amp;= 40\\
+\\
+Outstanding\ Balance\ ,\ B &amp;= RN-I\bigg[\frac{N(N+1)}{n(n+1)}\bigg]\\
+&amp;= 3,000(10)-300\bigg[\frac{10(10+1)}{40(40+1)}\bigg]\\
+&amp;= RM804.88
+\end{align}
+\]</span></p>
+</section>
+<section id="question-7-chapter-8-depreciation" class="level2">
+<h2 class="anchored" data-anchor-id="question-7-chapter-8-depreciation">Question 7 (Chapter 8: Depreciation)<br>
+</h2>
+<p>C = RM12,500<br>
+n = 8 years<br>
+S = RM4,700<br>
+method = declining balance</p>
+<p><span class="math display">\[
+\begin{align}
+r &amp;= 1 - \sqrt[n]\frac{S}{C}\\
+&amp;= 1 - \sqrt[8]\frac{4,700}{12,500}\\
+&amp;= 0.1151\ @\ 11.51\%\\
+\\
+BV_4 &amp;= C(1-r)^4\\
+&amp;= 12,500(1 - 0.1151)^4\\
+&amp;= RM7,664.85
+\end{align}
+\]</span></p>
 
 
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
