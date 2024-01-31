@@ -6,6 +6,8 @@ title: "Sample Final Examination Feb 2024"
 
 ## Question 1 (Chapter 2: Promissory Note & Bank Discount)
 
+![](images/qna/sample_feb2024/bq1.png)\
+
 r = 10%\
 d = 9%\
 Proceed, P = RM14,358.17\
@@ -37,6 +39,8 @@ D &= S - Proceeds \\
 $$
 
 ## Question 2 (Chapter 3: Compound Interest)\
+
+![](images/qna/sample_feb2024/bq2.png)\
 
 P = RM4,000\
 k = 6%\
@@ -72,6 +76,8 @@ $$
 
 ## Question 3 (Chapter 4: Annuity)\
 
+![](images/qna/sample_feb2024/bq3.png)\
+
 DP = RM35,000\
 t = 25 years\
 m = 12 (monthly)\
@@ -102,6 +108,8 @@ S &= R\bigg[\frac{(1 + i)^{n}-1}{i}\bigg]\\
 $$
 
 ## Question 4 (Chapter 5: Trade and Cash Discount)\
+
+![](images/qna/sample_feb2024/bq4.png)\
 
 n = 15 units\
 Invoice date = 11 Nov. 2020\
@@ -139,6 +147,8 @@ Total\ Payment\ &= L(1-SDER)(1-cd)\ + Transport\\
 $$
 
 ## Question 5 (Chapter 6: Markup & Markdown)\
+
+![](images/qna/sample_feb2024/bq5.png)\
 
 n = 200\
 TC = RM1,600 --> C = $\frac{TC}{n} = RM8$\
@@ -178,6 +188,8 @@ The maximum percentage of markdown is equivalent to the NP% if the net profit is
 
 ## Question 6 (Chapter 7: Installment Purchase)\
 
+![](images/qna/sample_feb2024/bq6.png)\
+
 CP = RM3,000\
 DP = 0\
 n = 40 (weekly)\
@@ -213,6 +225,8 @@ Outstanding\ Balance\ ,\ B &= RN-I\bigg[\frac{N(N+1)}{n(n+1)}\bigg]\\
 $$
 
 ## Question 7 (Chapter 8: Depreciation)\
+
+![](images/qna/sample_feb2024/bq7.png)\
 
 C = RM12,500\
 n = 8 years\
