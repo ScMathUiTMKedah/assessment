@@ -155,7 +155,7 @@ TC = RM1,600 --> C = $\frac{TC}{n} = RM8$\
 NP = 30% on Selling Price --> NP = 0.3R\
 OE = 12% on Cost --> OE = 0.12C\
 
-a)
+a)\
 $$
 \begin{align}
 R &= C + OE + NP\\
